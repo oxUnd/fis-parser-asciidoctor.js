@@ -12,6 +12,6 @@ npm install -g fis-parser-asciidoctor.js
 ### settings
 
 ```javascript
-fis.config.set('modules.parser.md', 'asciidoctor.js');
-fis.config.set('roadmap.ext.md', 'html');
+fis.config.set('modules.parser.adoc', 'asciidoctor.js');
+fis.config.set('roadmap.ext.adoc', 'html');
 ```
