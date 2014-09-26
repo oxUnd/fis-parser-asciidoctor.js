@@ -1,0 +1,19 @@
+{
+  "name": "fis-parser-asciidoctor.js",
+  "version": "1.0.0",
+  "description": "fis-parser-asciidoctor.js",
+  "main": "index.js",
+  "dependencies": {
+    "asciidoctor.js": "1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis",
+    "asciidoctor.js"
+  ],
+  "author": "fansekey",
+  "license": "BSD"
+}
